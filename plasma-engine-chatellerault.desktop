@@ -1,0 +1,17 @@
+[Desktop Entry]
+Name=Chatellerault Engine
+Comment=Access to the Chatellerault's city streams
+Type=Service
+
+X-KDE-ServiceTypes=Plasma/DataEngine
+X-KDE-Library=plasma_engine_chatellerault
+X-Plasma-EngineName=chatellerault
+X-KDE-PluginInfo-Author=Jérôme Pigeot
+X-KDE-PluginInfo-Email=j.pigeot@gmail.com
+X-KDE-PluginInfo-Name=chatellerault
+X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-Website=http://www.ville-chatellerault.fr
+X-KDE-PluginInfo-Category=Examples
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=LGPL
+X-KDE-PluginInfo-EnabledByDefault=true
